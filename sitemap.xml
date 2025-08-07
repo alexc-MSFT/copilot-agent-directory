@@ -4,35 +4,11 @@
   <url>
     <loc>https://alexc-msft.github.io/copilot-agent-directory/index.html</loc>
     <lastmod>2025-08-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
   </url>
+  <!-- Agemts directory -->
   <url>
     <loc>https://alexc-msft.github.io/copilot-agent-directory/agents.html</loc>
     <lastmod>2025-08-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
   </url>
 
-  <!-- Example additional pages (uncomment and adjust as needed) -->
-  <!--
-  <url>
-    <loc>https://alexc-msft.github.io/copilot-agent-directory/about/</loc>
-    <lastmod>2025-08-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://alexc-msft.github.io/copilot-agent-directory/agents/</loc>
-    <lastmod>2025-08-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://alexc-msft.github.io/copilot-agent-directory/agents/contoso-sales-assistant/</loc>
-    <lastmod>2025-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  -->
 </urlset>

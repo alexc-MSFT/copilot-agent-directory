@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Homepage -->
   <url>
     <loc>https://alexc-msft.github.io/copilot-agent-directory/index.html</loc>
     <lastmod>2025-08-07</lastmod>
   </url>
-  <!-- Agemts directory -->
   <url>
     <loc>https://alexc-msft.github.io/copilot-agent-directory/agents.html</loc>
     <lastmod>2025-08-07</lastmod>
   </url>
-
 </urlset>

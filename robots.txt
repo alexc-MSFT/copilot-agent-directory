@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alexc-msft.github.io/copilot-agent-directory/sitemap.xml

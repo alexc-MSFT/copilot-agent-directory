@@ -28,11 +28,11 @@ We 💖 to accept contributions. If you know of a Microsoft Copilot agent that i
 
 ### Please ensure your submission includes:
 
-Agent name 
-Description 
-Type (1P or 3P)
-Platform (Copilot, Outlook, Teams etc.)
-Department/Persona
+- Agent name 
+- Description 
+- Type (1P or 3P)
+- Platform (Copilot, Outlook, Teams etc.)
+- Department/Persona
 
 ## 📬 Contact
 

@@ -4,7 +4,7 @@ Welcome to the Copilot Agent Directory - a community-driven GitHub Pages site th
 
 ## 🌐 Website
 
-Visit the live site here: [https://alexc-msft.github.io/copilot-agent-directory/]()
+Visit the live site here: [https://alexc-msft.github.io/copilot-agent-directory]()
 
 ## 📌 Purpose
 

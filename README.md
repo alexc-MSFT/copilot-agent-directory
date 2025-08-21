@@ -1,6 +1,6 @@
 # Copilot Agents Directory
 
-Welcome to the Copilot Agent Directory — a community-driven GitHub Pages site that aims to catalogue all available Microsoft Copilot (Microsoft 365 Copilot & Copilot Chat) agents across various platforms and services.
+Welcome to the Copilot Agent Directory - a community-driven GitHub Pages site that aims to catalogue all available Microsoft Copilot (Microsoft 365 Copilot & Copilot Chat) agents across various platforms and services.
 
 ## 🌐 Website
 
